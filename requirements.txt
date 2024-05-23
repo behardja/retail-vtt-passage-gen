@@ -1,0 +1,8 @@
+google_cloud_aiplatform==1.40.0
+google_cloud_pipeline_components==2.10.0
+kfp==2.7.0
+kfp_pipeline_spec==0.3.0
+pandas==2.2.2
+protobuf
+fsspec
+gcsfs
